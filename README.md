@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Username:** DannyMV333
-
 **Bio:** AI Enthusiast & Python Developer
 
 **Interests:**
