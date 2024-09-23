@@ -5,7 +5,7 @@
 **Interests:**
 
 * **AI & Machine Learning:** Autogpt, Crewai, Llamaindex, and other cutting-edge AI frameworks
-* **Web Development:** Building scalable and efficient web applications with Nicegui and Reflex
+* **Web Development:** Building scalable and efficient web applications with pure python web frameworks such as Nicegui and Reflex to list a few.
 * **Python:** Exploring the vast possibilities of the Python ecosystem
 
 **Skills:**
