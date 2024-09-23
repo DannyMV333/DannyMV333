@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**DannyMV333/DannyMV333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Username:** DannyMV333
 
-Here are some ideas to get you started:
+**Bio:** AI Enthusiast & Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:**
+
+* **AI & Machine Learning:** Autogpt, Crewai, Llamaindex, and other cutting-edge AI frameworks
+* **Web Development:** Building scalable and efficient web applications with Nicegui and Reflex
+* **Python:** Exploring the vast possibilities of the Python ecosystem
+
+**Skills:**
+
+* Python programming language
+* AI & Machine Learning frameworks (Autogpt, Crewai, Llamaindex)
+* Web development with Pure python web frameworks like Nicegui and Reflex
+* Familiarity with other Python web frameworks
