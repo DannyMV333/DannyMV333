@@ -11,6 +11,6 @@
 **Skills:**
 
 * Python programming language
-* AI & Machine Learning frameworks (Autogpt, Crewai, Llamaindex)
+* AI agent frameworks (Autogpt, Crewai, Llamaindex)
 * Web development with Pure python web frameworks like Nicegui and Reflex
 * Familiarity with other Python web frameworks
